@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.header-component {
+    padding-top: 20px;
+    font-family: 'Inter', sans-serif; 
+    color: white;
+    background-color: #111111;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.header-pages{
+    display: flex;
+    justify-content: center;
+    gap: 35px
+}
+
+.button{
+    border: 2px solid white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* .logo-1{
+    height: 30.3px;
+    width: 30.41px;
+}
+
+.logo-2{
+    height: 15.95px;
+    width: 101.3px;
+} */

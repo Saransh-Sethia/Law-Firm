@@ -1,0 +1,40 @@
+
+
+.choose-container{
+    margin-top: 100px;
+
+}
+
+.heading-3{
+    font-size: 54px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.cards{
+    margin-left: 100px;
+    gap:5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   justify-content:center;
+  
+}
+
+.button-container{
+    border: 1px solid #E3B748;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 43px;
+    background-color:#E3B748;
+    color: #000000;
+}
+
+/* Img{
+    height:100px;
+    width: 10px;
+} */

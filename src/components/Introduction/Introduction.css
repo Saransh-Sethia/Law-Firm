@@ -1,0 +1,28 @@
+.introduction{
+    border-right: 1px solid #6a6a6a;
+    margin-top: 150px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin-left: 200px;
+    color: white;
+ 
+}
+
+.heading-1{
+    font-size: 54px;
+    font-weight: 600;
+}
+
+.heading-2{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 70px;
+}
+
+.paragraph{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
